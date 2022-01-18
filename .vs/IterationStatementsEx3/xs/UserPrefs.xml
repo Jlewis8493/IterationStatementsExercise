@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{78F3A200-B6B0-4FB4-82D9-3D573AD039C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IterationStatementsEx3/Program.cs">
+    <Files>
+      <File FileName="IterationStatementsEx3/Program.cs" Line="136" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IterationStatementsEx3" expanded="True">
+            <Node name="IterationStatementsEx3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IterationStatementsEx3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
